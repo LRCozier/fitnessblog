@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "my-fitness-journey-from-kid-to-trainer",
+    "title": "My Journey: From Overweight Kid to Personal Trainer",
+    "summary": "It wasn't easy. I want to share the real story of how I changed my relationship with food and fitness.",
+    "content": "<p>This is the full blog post content. It can be HTML!</p><p>...</p>",
+    "featuredImage": "/images/journey.jpg",
+    "category": "mental-health",
+    "tags": ["personal-story", "weight-loss", "mindset"],
+    "date": "2025-11-06T10:00:00Z"
+  },
+  {
+    "slug": "top-5-gym-myths-busted",
+    "title": "Top 5 Gym Myths That Are Holding You Back",
+    "summary": "Myth #1: 'Lifting heavy makes women bulky.' Let's talk about why that's wrong.",
+    "content": "<p>Full post about myths...</p>",
+    "featuredImage": "/images/gym-myths.jpg",
+    "category": "gym",
+    "tags": ["strength-training", "myths", "beginners"],
+    "date": "2025-11-07T09:00:00Z"
+  }
+]
